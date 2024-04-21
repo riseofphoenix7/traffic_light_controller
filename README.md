@@ -7,3 +7,11 @@ State machine model
 Truth table
 ![3](https://github.com/riseofphoenix7/traffic_light_controller/assets/154606261/c6fa830f-d1c0-4c51-84f2-8b2d974e8349)
 
+RESULTS
+
+simulation
+![Screenshot 2024-04-21 100551](https://github.com/riseofphoenix7/traffic_light_controller/assets/154606261/627fb321-603c-4357-905b-13ce85e6ebd6)
+
+RTL design
+![Screenshot 2024-04-21 100724](https://github.com/riseofphoenix7/traffic_light_controller/assets/154606261/5d98f6cb-52c6-4c30-823b-a40b9040ce0e)
+
